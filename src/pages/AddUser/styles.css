@@ -1,0 +1,14 @@
+.paper {
+  height: 375px;
+  width: 250px;
+  text-align: center;
+  display: inline-block;
+}
+
+.inputText {
+  width: 200px;
+}
+
+.container {
+  align-items: center;
+}

@@ -1,0 +1,6 @@
+.forexContainer {
+  display: flex;
+  margin-top: 2em;
+  flex-direction: column;
+  align-items: flex-start;
+}
