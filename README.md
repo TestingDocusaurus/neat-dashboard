@@ -39,6 +39,7 @@ yarn test
 ```
 yarn build
 ```
+- [Deployment Link](http://lush-fact.surge.sh/)
 
 ## Built With
 
